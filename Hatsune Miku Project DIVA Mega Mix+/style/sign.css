@@ -1,0 +1,144 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: interstate, sans-serif;
+	background-image: url("../image/features_bg.jpg");
+}
+#container{
+	width: 600px;
+	height: 720px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	background-color: #273038;
+}
+#image{
+	width: 250px;
+	height: 200px;
+	text-align: center;
+	float: left;
+}
+#text{
+	width: 350px;
+	height: 200px;
+	text-align: left;
+	float: left;
+	color: #FFFFFF;
+}
+#p-email{
+	width: 100%;
+	height: 20px;
+	float: left;
+	color: #FFFFFF;
+}
+#input-email{
+	width: 100%;
+	height: 50px;
+	float: left;
+	text-align: center;
+}
+#email{
+	width: 91%;
+	height: 37px;
+	border: none;
+	margin-top: 3px;
+	padding-left: 14px;
+	color: #FFFFFF;
+	outline: none;
+	background-color: #37474F;
+}
+#p-date{
+	width: 100%;
+	height: 20px;
+	float: left;
+	color: #FFFFFF;
+}
+#input-date{
+	width: 100%;
+	height: 50px;
+	float: left;
+	text-align: center;
+}
+.birth{
+	width: 130px;
+	height: 37px;
+	border: none;
+	margin-top: 3px;
+	text-align: center;
+	color: #FFFFFF;
+	outline: none;
+	background-color: #37474F;
+}
+#date{
+	width: 280px;
+	height: 37px;
+	border: none;
+	margin-top: 3px;
+	text-align: center;
+	color: #FFFFFF;
+	outline: none;
+	background-color: #37474F;
+}
+#p-platform{
+	width: 100%;
+	height: 20px;
+	float: left;
+	color: #FFFFFF;
+}
+#image-platform{
+	width: 100%;
+	height: 150px;
+	text-align: center;
+	float: left;
+}
+.platform-select{
+	margin-top: 20px;
+	cursor: pointer;
+	opacity: 0.45;
+	transition: 0.4s;
+}
+.platform-select:hover{
+	opacity: 1;
+	transition: 0.4s;
+}
+.platform-select:focus{
+	opacity: 1;
+	transition: 0.4s;
+}
+#box{
+	width: 60px;
+	height: 130px;
+	float: left;
+	text-align: right;
+}
+.check{
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+}
+#checkbox-text{
+	width: 520px;
+	height: 130px;
+	float: left;
+	color: #FFFFFF;
+}
+#subscribe{
+	width: 100%;
+	height: 70px;
+	float: left;
+	text-align: center;
+}
+.subscribe-button{
+	width: 94%;
+	height: 40px;
+	margin-top: 10px;
+	border: 2px solid #000000;
+	color: #000000;
+	cursor: pointer;
+	background-color: #FFD000;
+	transition: 0.4s;
+}
+.subscribe-button:hover{
+	background-color: #FFEE58;
+	transition: 0.4s;
+}
