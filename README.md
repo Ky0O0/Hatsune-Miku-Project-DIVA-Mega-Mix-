@@ -1,2 +1,3 @@
-# Hatsune-Miku-Project-DIVA-Mega-Mix-
-Hatsune Miku page.
+# Original - https://miku.sega.com/megamixplus/
+
+The page was created by a fan.
